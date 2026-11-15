@@ -1,4 +1,4 @@
-# 🚀 Online Examination System
+#  Online Examination System
 
 ### First repository of the New Generation team
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌟 About the Project
+## About the Project
 
 Online Examination System is the first project of the New Generation team.  
 Our goal is to make online exams easier to create, manage, and take — with a clean experience for both students and teachers.
@@ -43,13 +43,10 @@ Our goal is to make online exams easier to create, manage, and take — with a c
 | Frontend | HTML, CSS, JavaScript |
 | Backend | PHP / Node.js / Python |
 | Database | MySQL |
-| Version Control | Git & GitHub |
+| Version Control | Git & GitHub
 
-> Note: Update this table to match the technologies you actually use.
 
----
-
-## ⚙️ Getting Started
+##  Getting Started
 
 `bash
 # Clone the repository
