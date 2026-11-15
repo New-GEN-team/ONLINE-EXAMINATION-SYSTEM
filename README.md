@@ -47,12 +47,18 @@ Our goal is to make online exams easier to create, manage, and take — with a c
 
 
 ##  Getting Started
-
-`bash
-# Clone the repository
-git clone https://github.com/cherinettesfayeg-lang/ONLINE-EXAMINATION-SYSTEM.git
+1.clone the repository :
+```bash
+git clone https://github.com/New-GEN-team/ONLINE-EXAMINATION-SYSTEM.git
 
 # Enter the project folder
-cd ONLINE-EXAMINATION-SYSTEM
+ ONLINE-EXAMINATION-SYSTEM 
+## NEW GENERATION TEAM MEMBERS
+ Github Username                      Role
+1. @Cherman-2127#               Project leader and Developer
+2. @                            Fronted  Developer
+3. @                            Backend  Developer
+4. @                            Database Designer
+5. @                            Tester and Documentation           
 
 # Open and run the project
