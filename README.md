@@ -1,21 +1,61 @@
-MIT License
+# 🚀 Online Examination System
 
-Copyright (c) 2024 New Generation
+### First repository of the New Generation team
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+<p align="center">
+  <img src="https://img.shields.io/badge/Team-New%20Generation-blueviolet?style=for-the-badge" alt="New Generation Team" />
+  <img src="https://img.shields.io/badge/Project-Online%20Examination%20System-success?style=for-the-badge" alt="Online Examination System" />
+  <img src="https://img.shields.io/badge/Status-Early%20Development-orange?style=for-the-badge" alt="Early Development" />
+</p>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+<p align="center">
+  <b>A simple, modern, and reliable online examination system.</b><br/>
+  <i>Built to improve the digital exam experience for students and instructors.</i>
+</p>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+## 🌟 About the Project
+
+Online Examination System is the first project of the New Generation team.  
+Our goal is to make online exams easier to create, manage, and take — with a clean experience for both students and teachers.
+
+> “New Generation — Building new tools for better learning.”
+
+---
+
+## ✨ Key Features
+
+- 📝 Create and manage online exams easily
+- ⏱️ Exam timer and session control
+- 🔐 User authentication and access control
+- 📊 Fast result processing and reporting
+- 📱 Responsive on different devices
+- 🎨 Clean and user-friendly interface
+- 🛠️ Easy to maintain and extend
+
+---
+
+## 🧰 Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | PHP / Node.js / Python |
+| Database | MySQL |
+| Version Control | Git & GitHub |
+
+> Note: Update this table to match the technologies you actually use.
+
+---
+
+## ⚙️ Getting Started
+
+`bash
+# Clone the repository
+git clone https://github.com/cherinettesfayeg-lang/ONLINE-EXAMINATION-SYSTEM.git
+
+# Enter the project folder
+cd ONLINE-EXAMINATION-SYSTEM
+
+# Open and run the project
